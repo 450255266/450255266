@@ -1,4 +1,4 @@
-### 👋，專注Java，Golang，C#領域
+### 👋，專注Java，Golang，C# 領域
 <a href="https://github.com/450255266/tech">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=450255266&show_icons=true" />
 </a>
